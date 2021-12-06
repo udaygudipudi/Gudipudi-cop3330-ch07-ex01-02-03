@@ -3,6 +3,11 @@
 	We have inserted 3 bugs that the compiler will catch and 3 that it won't.
 */
 
+/*
+ *  UCF COP3330 Fall 2021 Assignment 6 Solution
+ *  Copyright 2021 Uday Gudipudi
+ */
+
 #include "std_lib_facilities.h"
 
 struct Token {
